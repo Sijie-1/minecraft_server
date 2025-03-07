@@ -2,6 +2,7 @@
 This Python script is a Minecraft server manager that allows you to easily download, configure and manage a Minecraft server.
 
 It's just a prototype, not to call it crap, there are a lot of things missing, but I think this project was fun for me. I know that the script is in spanish, very soon, not to say in months, I will update everything when I can.
+Before this, it is worth mentioning that you need python3 and java installed.
 
 Main features:
 
